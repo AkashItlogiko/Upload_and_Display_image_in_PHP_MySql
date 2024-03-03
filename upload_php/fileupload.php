@@ -87,6 +87,8 @@ Please select a file<br><br>
 
 </form>
 
+
+<!--ay jayga thaki img ka database dara query kore show korano hoyasa  -->
 <?php
 
 $sql = "SELECT * FROM images";
